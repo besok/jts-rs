@@ -1,0 +1,13 @@
+[package]
+name = "jts-rs"
+authors = ["BorisZhguchev <zhguchev@gmail.com>"]
+description = "JTS Topology Suite bindings for Rust"
+license-file = "LICENSE"
+keywords = ["jts", "topology", "geometry", "spatial", "rust"]
+homepage = "https://github.com/besok/jts-rs"
+repository = "https://github.com/besok/jts-rs"
+categories= ["algorithms", "science" ]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
